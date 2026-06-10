@@ -9,7 +9,7 @@ Optimiert für 27" Full HD Displays im Fullscreen Mode.
 ## ⚙️ Installation
 
 '''cd ~/MagicMirror/modules
-git clone https://github.com/DEINUSERNAME/MMM-FIFAWorldCupDashboard.git
+git clone https://github.com/wiiare/MMM-FIFAWorldCupDashboard.git
 cd MMM-FIFAWorldCupDashboard
 npm install
 
